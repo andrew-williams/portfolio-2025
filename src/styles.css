@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+*
+{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+ul
+{
+    list-style-type : disc;
+    padding: 16px;
+    padding-left:16px;
+}
+
+li
+{
+    overflow: visible;
+}
