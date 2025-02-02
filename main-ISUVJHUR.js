@@ -43,7 +43,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/csi_slots_thumb.jpg",
+            "imageURL" : "Assets/csi_slots_thumb.jpg",
             "imageText" : "CSI Slots"
           },
           "contentData" : 
@@ -58,7 +58,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/rdpl_thumb.png",
+            "imageURL" : "Assets/rdpl_thumb.png",
             "imageText" : "rdpl"
           },
           "contentData" : 
@@ -75,7 +75,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/tilebuilder_thumb.png",
+            "imageURL" : "Assets/tilebuilder_thumb.png",
             "imageText" : "Tile Builder"
           },
           "contentData" : 
@@ -92,7 +92,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/temp_thumb.png",
+            "imageURL" : "Assets/temp_thumb.png",
             "imageText" : "First Portfolio"
           },
           "contentData" : 
@@ -109,7 +109,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/artifact_thumb.png",
+            "imageURL" : "Assets/artifact_thumb.png",
             "imageText" : "Artifact"
           },
           "contentData" : 
@@ -126,7 +126,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/owab_thumb.png",
+            "imageURL" : "Assets/owab_thumb.png",
             "imageText" : "Out With a Bang"
           },
           "contentData" : 
@@ -141,7 +141,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/randomizer_thumb.png",
+            "imageURL" : "Assets/randomizer_thumb.png",
             "imageText" : "Randomizer Game"
           },
           "contentData" : 
@@ -156,7 +156,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/airplane_thumb.png",
+            "imageURL" : "Assets/airplane_thumb.png",
             "imageText" : "Air Survival"
           },
           "contentData" : 
@@ -171,7 +171,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/tempest_thumb.png",
+            "imageURL" : "Assets/tempest_thumb.png",
             "imageText" : "Tempest"
           },
           "contentData" : 
@@ -188,7 +188,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/udk_thumb.jpg",
+            "imageURL" : "Assets/udk_thumb.jpg",
             "imageText" : "UDK Scripting Assignment - Final"
           },
           "contentData" : 
@@ -205,7 +205,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/udk_thumb.jpg",
+            "imageURL" : "Assets/udk_thumb.jpg",
             "imageText" : "UDK Scripting Assignment - Midterm"
           },
           "contentData" : 
