@@ -11,7 +11,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "Assets/icon_angular_gradient.png",
+            "imageURL" : "assets/icon_angular_gradient.png",
             "imageText" : "Portfolio v2"
           },
           "contentData" : 
@@ -26,7 +26,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/disney_magic_kingdoms_thumb.webp",
+            "imageURL" : "assets/disney_magic_kingdoms_thumb.webp",
             "imageText" : "Disney Magic Kingdoms"
           },
           "contentData" : 
