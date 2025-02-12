@@ -11,23 +11,6 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         {
           "imageData" : 
           {
-            "imageURL" : "/Assets/airplane_thumb.png",
-            "imageText" : "Portfolio v2"
-          },
-          "contentData" : 
-          {
-            "contentName" : "Air Survival (Active Project)",
-            "contentDate" : "2025",
-            "contentRole" : "Freelancer Programmer",
-            "contentPlatform" : "Typescript, using Phaser 3",
-            "contentDescription" : "This is the first flash game in the process of being remade for the modern web. The goal of this project is to expand my skills into Typescript while also having this game be playable on the browser and on mobile devices.<br><br><b>Additional Information:</b> All music in this game is from <a href=\\"https://cyber-rainforce.net/2018/01/10/rule/\\" target=\\"_blank\\">Cyber-Rainforce</a>. Copyright rules are on the link posted.</p>",
-            "contentURLPath" : "https://andrew-williams.github.io/PhaserJS-AirSurvival/",
-            "contentURLName" : "Game Page"
-          }
-        },
-        {
-          "imageData" : 
-          {
             "imageURL" : "Assets/airplane_thumb.png",
             "imageText" : "Air Survival"
           },
